@@ -1,0 +1,88 @@
+{
+    "categories": [
+      {
+        "category": "Ìmúlò Ìtẹ́wọgbà",
+        "subcategories": [
+          {
+            "subcategory": "Python",
+            "lessons": [
+              {"title": "Ìtẹ̀síwájú", "content": "Python jẹ́ èdè ìmúlò amúyẹ gíga tí wọ́n lò fún ọ̀pọ̀lọpọ̀ àpẹẹrẹ. Ó rọrùn láti kọ́ àti pé ó dára fún àkóbá."},
+              {"title": "Àwọn Àmì àti Ìrísí Data", "content": "Python ní oríṣìíríṣìí irísí data, pẹ̀lú integers, strings, àti àkójọpọ̀ (lists). A máa lò àwọn àmì láti fipamọ́ ìye."},
+              {"title": "Ìtọsọ́nà Ìṣàkóso", "content": "Kọ́ ẹ̀kọ́ nípa if-else, loops, àti bí a ṣe ń ṣàkóso ìsọ̀kan eto rẹ."},
+              {"title": "Àwọn Ìṣe (Functions)", "content": "Àwọn ìṣe jé kí o le kó kóòdù tí a le tún lò jọ, kí o sì máa pe nígbà tó bá yẹ."}
+            ]
+          },
+          {
+            "subcategory": "JavaScript",
+            "lessons": [
+              {"title": "Ìtẹ̀síwájú", "content": "JavaScript ni èdè ayé ayelujara. A máa lò ó láti jẹ́ kí àwọn ojúlé ayelujara di onírúurú."},
+              {"title": "Àmì", "content": "Nínú JavaScript, a máa lò àwọn àmì láti tọju data tí a lè lò ní gbogbo ibi nínú kóòdù rẹ."},
+              {"title": "Ìṣe", "content": "Kọ́ ẹ̀kọ́ nípa bí a ṣe ń dá àwọn ìṣe (functions) sílẹ̀ ní JavaScript àti bí a ṣe máa fi àwọn àtọka (parameters) rán wọn."}
+            ]
+          },
+          {
+            "subcategory": "C++",
+            "lessons": [
+              {"title": "Ìtẹ̀síwájú", "content": "C++ jẹ́ èdè ìmúlò agbára tó mọ́ nípa iṣẹ́ tó yara àti àgbára lórí àwọn orísun ẹrọ."},
+              {"title": "Àmì", "content": "Ní C++, o máa ń ṣàlàyé àmì tí yóò fi pamọ́ data pẹ̀lú irísí kọọkan, bíi integer, float tàbí character."}
+            ]
+          },
+          {
+            "subcategory": "Ìdàgbàsókè Ìpamọ́ App",
+            "lessons": [
+              {"title": "Ìtẹ̀síwájú Sí Ìdàgbàsókè App", "content": "Ìdàgbàsókè app fónutologbolori kà àfihàn pẹ̀lú àwọn èdè amúyẹ bíi Java àti Swift."},
+              {"title": "Apẹrẹ Ìbáṣepọ̀ Olùlò", "content": "Kọ́ bí a ṣe ń dá àwọn ibùdó olumulo tí ó rọrùn láláyé."}
+            ]
+          },
+          {
+            "subcategory": "Ìmò Ayélujára (AI)",
+            "lessons": [
+              {"title": "Kí ni AI?", "content": "Ìmò Ayélujára túmọ̀ sí àwòkọṣe ọgbọ́n ènìyàn nínú àwọn ẹrọ tí a gbé kó jọ kí wọ́n le rò àti kọ́."},
+              {"title": "Ìkọ̀́ṣàkọsílẹ̀ Ẹ̀kọ́ Ẹrọ (Machine Learning)", "content": "Ìkọ̀́ṣàkọsílẹ̀ ẹ̀kọ́ ẹrọ jẹ́ apá AI tí ó nípa àkọ́so àwọn alúwàṣe láti kọ́ látinú data."}
+            ]
+          },
+          {
+            "subcategory": "Ìdàgbàsókè Ẹ̀rọ Eré",
+            "lessons": [
+              {"title": "Ìtẹ̀síwájú Sí Ìdàgbàsókè Ẹ̀rọ Eré", "content": "Kọ́ àwọn ìlànà ìbẹ̀rẹ̀ sí ìdàgbàsókè eré bíi àwòrán, àyẹyẹ, àti àṣà-ìṣàkóso eré."},
+              {"title": "Àwọn Àkọ́kọ́ Unity", "content": "Unity jẹ́ ẹrọ agbára eré tí a lò fún eré 2D àti 3D. Kọ́ nípa ìbáṣepọ̀ rẹ̀ àti àwọn àfihàn tó wúlò."}
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Ìmọ̀ Ẹ̀rọ",
+        "subcategories": [
+          {
+            "subcategory": "Fisiksi",
+            "lessons": [
+              {"title": "Àwọn Òfin Iṣipopada Newton", "content": "Àwọn òfin Newton ṣàlàyé ìbáṣepọ̀ tí ó wà láàárín ara àti agbára tó ń ṣiṣẹ́ lórí."},
+              {"title": "Ìmúlò Ooru (Thermodynamics)", "content": "Ìmúlò ooru ń sọ ìbáṣepọ̀ tó wà láàárín ooru, iṣẹ́, àti agbára."}
+            ]
+          },
+          {
+            "subcategory": "Báyọlógì",
+            "lessons": [
+              {"title": "Ìmọ̀ Ẹ̀kọ́ Sèlù", "content": "Sèlù ni kókó ìyè. Kọ́ ẹ̀kọ́ nípa àwọn ṣàkóso àti iṣẹ́ àwọn sèlù."},
+              {"title": "Ìmọ̀ Ẹ̀kọ́ Jínítìkì", "content": "Jínítìkì jẹ́ ẹ̀kọ́ nípa ìtọ́jú àti iyípadà àtọ́kànwá nínú àwọn ohun alààyè."}
+            ]
+          },
+          {
+            "subcategory": "Kémísítrì",
+            "lessons": [
+              {"title": "Àtọmù àti Mọ́léékùlù", "content": "Àtọmù jẹ́ àkọ́kọ́pa gbogbo ohun. Mọ́léékùlù jẹ́ apapọ àtọmù."},
+              {"title": "Ìpẹ̀yà Kemika", "content": "Ìpẹ̀yà kemika jẹ́ àtúnṣe ohun sí ohun tuntun."}
+            ]
+          },
+          {
+            "subcategory": "Ìmọ̀ Oòrùn Ayé (Astronomy)",
+            "lessons": [
+              {"title": "Àyíká Oòrùn", "content": "Àyíká oòrùn ni Òòrùn àti gbogbo ohun tí agbára rẹ̀ fà mọ́ra."},
+              {"title": "Ìmọ̀ Àwọn Ìràwọ̀ àti Àwọn Àgaláxì", "content": "Kọ́ ẹ̀kọ́ nípa àwọn ìràwọ̀, ìbá wọn ṣe dá sílẹ̀, àti ìtẹsiwaju àwọn àgaláxì."}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

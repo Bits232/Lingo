@@ -1,0 +1,41 @@
+{
+    "categories": [
+      {
+        "category": "Sayansi",
+        "subcategories": [
+          {
+            "subcategory": "Biolojia",
+            "lessons": [
+              {
+                "title": "Utangulizi wa Biolojia",
+                "content": "Biolojia ni utafiti wa viumbe hai."
+              },
+              {
+                "title": "Mifumo ya Mwili",
+                "content": "Fahamu kuhusu mifumo tofauti ya mwili wa binadamu."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Teknolojia",
+        "subcategories": [
+          {
+            "subcategory": "Msingi wa Kompyuta",
+            "lessons": [
+              {
+                "title": "Kompyuta ni nini?",
+                "content": "Jifunze kuhusu vipengele vya msingi vya kompyuta."
+              },
+              {
+                "title": "Usalama Mtandaoni",
+                "content": "Jinsi ya kuwa salama unapotumia intaneti."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

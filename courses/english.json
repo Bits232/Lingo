@@ -1,0 +1,87 @@
+{
+  "categories": [
+    {
+      "category": "Programming",
+      "subcategories": [
+        {
+          "subcategory": "Python",
+          "lessons": [
+            {"title": "Introduction", "content": "Python is a high-level programming language used for a wide variety of applications. It's easy to learn and perfect for beginners."},
+            {"title": "Variables and Data Types", "content": "Python has several data types, including integers, strings, and lists. Variables are used to store values."},
+            {"title": "Control Structures", "content": "Learn about if-else statements, loops, and how to control the flow of your programs."},
+            {"title": "Functions", "content": "Functions allow you to group reusable code into a block that can be called whenever needed."}
+          ]
+        },
+        {
+          "subcategory": "JavaScript",
+          "lessons": [
+            {"title": "Introduction", "content": "JavaScript is the language of the web. It is used to make websites interactive."},
+            {"title": "Variables", "content": "In JavaScript, variables are used to store data that can be used throughout your code."},
+            {"title": "Functions", "content": "Learn about functions in JavaScript and how to pass parameters."}
+          ]
+        },
+        {
+          "subcategory": "C++",
+          "lessons": [
+            {"title": "Introduction", "content": "C++ is a powerful programming language known for its efficiency and control over system resources."},
+            {"title": "Variables", "content": "In C++, you define variables to store data in specific types, like integers, floats, or characters."}
+          ]
+        },
+        {
+          "subcategory": "App Development",
+          "lessons": [
+            {"title": "Introduction to App Development", "content": "Mobile app development involves creating applications for mobile devices using programming languages like Java and Swift."},
+            {"title": "User Interface Design", "content": "Learn about creating user-friendly interfaces for apps using design principles."}
+          ]
+        },
+        {
+          "subcategory": "AI",
+          "lessons": [
+            {"title": "What is AI?", "content": "Artificial Intelligence refers to the simulation of human intelligence in machines that are programmed to think and learn."},
+            {"title": "Machine Learning", "content": "Machine Learning is a subset of AI that involves training algorithms to learn from data."}
+          ]
+        },
+        {
+          "subcategory": "Game Development",
+          "lessons": [
+            {"title": "Introduction to Game Development", "content": "Learn the basics of game development, including concepts like graphics, animation, and gameplay logic."},
+            {"title": "Unity Basics", "content": "Unity is a popular game engine used for building both 2D and 3D games. Learn about its interface and basic features."}
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Science",
+      "subcategories": [
+        {
+          "subcategory": "Physics",
+          "lessons": [
+            {"title": "Newton's Laws of Motion", "content": "Newton's laws describe the relationship between a body and the forces acting upon it."},
+            {"title": "Thermodynamics", "content": "Thermodynamics deals with the relationships between heat, work, and energy."}
+          ]
+        },
+        {
+          "subcategory": "Biology",
+          "lessons": [
+            {"title": "Cell Biology", "content": "Cells are the basic unit of life. This module will explore the structure and function of cells."},
+            {"title": "Genetics", "content": "Genetics is the study of heredity and variation in living organisms."}
+          ]
+        },
+        {
+          "subcategory": "Chemistry",
+          "lessons": [
+            {"title": "Atoms and Molecules", "content": "Atoms are the basic building blocks of matter. Molecules are made up of atoms bonded together."},
+            {"title": "Chemical Reactions", "content": "Chemical reactions involve the transformation of substances into different substances."}
+          ]
+        },
+        {
+          "subcategory": "Astronomy",
+          "lessons": [
+            {"title": "The Solar System", "content": "The solar system consists of the Sun and everything bound to it by gravity."},
+            {"title": "Stars and Galaxies", "content": "Learn about stars, their formation, and how galaxies are structured and evolve."}
+          ]
+        }
+      ]
+    }
+  ]
+}

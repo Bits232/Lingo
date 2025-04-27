@@ -1,0 +1,41 @@
+{
+    "categories": [
+      {
+        "category": "Agham",
+        "subcategories": [
+          {
+            "subcategory": "Biyolohiya",
+            "lessons": [
+              {
+                "title": "Panimula sa Biyolohiya",
+                "content": "Ang Biyolohiya ay pag-aaral ng mga buhay na organismo."
+              },
+              {
+                "title": "Mga Sistema ng Katawan",
+                "content": "Alamin ang tungkol sa iba't ibang sistema ng katawan ng tao."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Teknolohiya",
+        "subcategories": [
+          {
+            "subcategory": "Mga Batayan ng Kompyuter",
+            "lessons": [
+              {
+                "title": "Ano ang Kompyuter?",
+                "content": "Alamin ang mga pangunahing bahagi ng kompyuter."
+              },
+              {
+                "title": "Kaligtasan sa Online",
+                "content": "Paano maging ligtas habang gumagamit ng internet."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

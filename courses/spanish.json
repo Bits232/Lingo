@@ -1,0 +1,88 @@
+{
+    "categories": [
+      {
+        "category": "Programación",
+        "subcategories": [
+          {
+            "subcategory": "Python",
+            "lessons": [
+              {"title": "Introducción", "content": "Python es un lenguaje de programación de alto nivel utilizado para una amplia variedad de aplicaciones. Es fácil de aprender y perfecto para principiantes."},
+              {"title": "Variables y Tipos de Datos", "content": "Python tiene varios tipos de datos, incluyendo enteros, cadenas y listas. Las variables se utilizan para almacenar valores."},
+              {"title": "Estructuras de Control", "content": "Aprende sobre las sentencias if-else, los bucles y cómo controlar el flujo de tus programas."},
+              {"title": "Funciones", "content": "Las funciones te permiten agrupar código reutilizable en un bloque que se puede llamar cuando sea necesario."}
+            ]
+          },
+          {
+            "subcategory": "JavaScript",
+            "lessons": [
+              {"title": "Introducción", "content": "JavaScript es el lenguaje de la web. Se utiliza para hacer que los sitios web sean interactivos."},
+              {"title": "Variables", "content": "En JavaScript, las variables se utilizan para almacenar datos que se pueden usar en todo tu código."},
+              {"title": "Funciones", "content": "Aprende sobre las funciones en JavaScript y cómo pasar parámetros."}
+            ]
+          },
+          {
+            "subcategory": "C++",
+            "lessons": [
+              {"title": "Introducción", "content": "C++ es un lenguaje de programación potente conocido por su eficiencia y control sobre los recursos del sistema."},
+              {"title": "Variables", "content": "En C++, defines variables para almacenar datos en tipos específicos, como enteros, flotantes o caracteres."}
+            ]
+          },
+          {
+            "subcategory": "Desarrollo de Aplicaciones",
+            "lessons": [
+              {"title": "Introducción al Desarrollo de Aplicaciones", "content": "El desarrollo de aplicaciones móviles implica crear aplicaciones para dispositivos móviles usando lenguajes como Java y Swift."},
+              {"title": "Diseño de Interfaces de Usuario", "content": "Aprende a crear interfaces fáciles de usar aplicando principios de diseño."}
+            ]
+          },
+          {
+            "subcategory": "IA",
+            "lessons": [
+              {"title": "¿Qué es la IA?", "content": "La Inteligencia Artificial se refiere a la simulación de la inteligencia humana en máquinas que están programadas para pensar y aprender."},
+              {"title": "Aprendizaje Automático", "content": "El Aprendizaje Automático es una rama de la IA que implica entrenar algoritmos para aprender de los datos."}
+            ]
+          },
+          {
+            "subcategory": "Desarrollo de Videojuegos",
+            "lessons": [
+              {"title": "Introducción al Desarrollo de Videojuegos", "content": "Aprende los conceptos básicos del desarrollo de videojuegos, incluyendo gráficos, animación y lógica de juego."},
+              {"title": "Fundamentos de Unity", "content": "Unity es un motor de juegos popular utilizado para construir juegos 2D y 3D. Aprende sobre su interfaz y características básicas."}
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Ciencia",
+        "subcategories": [
+          {
+            "subcategory": "Física",
+            "lessons": [
+              {"title": "Leyes del Movimiento de Newton", "content": "Las leyes de Newton describen la relación entre un cuerpo y las fuerzas que actúan sobre él."},
+              {"title": "Termodinámica", "content": "La termodinámica se ocupa de las relaciones entre el calor, el trabajo y la energía."}
+            ]
+          },
+          {
+            "subcategory": "Biología",
+            "lessons": [
+              {"title": "Biología Celular", "content": "Las células son la unidad básica de la vida. Este módulo explorará la estructura y función de las células."},
+              {"title": "Genética", "content": "La genética es el estudio de la herencia y la variación en los seres vivos."}
+            ]
+          },
+          {
+            "subcategory": "Química",
+            "lessons": [
+              {"title": "Átomos y Moléculas", "content": "Los átomos son los componentes básicos de la materia. Las moléculas están formadas por átomos unidos entre sí."},
+              {"title": "Reacciones Químicas", "content": "Las reacciones químicas implican la transformación de sustancias en otras diferentes."}
+            ]
+          },
+          {
+            "subcategory": "Astronomía",
+            "lessons": [
+              {"title": "El Sistema Solar", "content": "El sistema solar está formado por el Sol y todo lo que está unido a él por la gravedad."},
+              {"title": "Estrellas y Galaxias", "content": "Aprende sobre las estrellas, su formación y cómo se estructuran y evolucionan las galaxias."}
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
