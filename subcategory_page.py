@@ -26,7 +26,7 @@ class SubCategoryPage(ft.UserControl):
                 ft.Row(
                     [
                         ft.IconButton(icon=ft.icons.ARROW_BACK, on_click=self.go_back),
-                        ft.Text(f"Category: {self.category_data['category']}", weight="bold", size=22)
+                        ft.Text(f"{self.category_data['category']}", weight="bold", size=17)
                     ],
                     alignment=ft.MainAxisAlignment.START
                 ),

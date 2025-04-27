@@ -24,7 +24,7 @@ class CoursePage(ft.UserControl):
                 ft.Row(
                     [
                         ft.IconButton(icon=ft.icons.ARROW_BACK, on_click=self.go_back),
-                        ft.Text(f"Subcategory: {self.subcategory['subcategory']}", weight="bold", size=22)
+                        ft.Text(f"{self.subcategory['subcategory']}", weight="bold", size=17)
                     ],
                     alignment=ft.MainAxisAlignment.START
                 ),

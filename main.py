@@ -11,6 +11,8 @@ def main(page: ft.Page):
     page.theme_mode = ft.ThemeMode.DARK
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
     page.scroll='adaptive'
+    page.window.width=360
+    page.window.height=600
 
     init_db()
 
